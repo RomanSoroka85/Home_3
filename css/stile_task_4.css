@@ -1,0 +1,13 @@
+h1 {
+    font-size: 30px;
+    font-family: "Ubuntu";
+    color: rgb(98, 98, 98);
+    padding: 10px;
+    margin: auto;
+    margin: 20px;
+    color: purple;
+    text-align: center;
+}
+.weight {
+    margin: 0 10px;
+}
