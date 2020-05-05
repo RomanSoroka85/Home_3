@@ -4,32 +4,30 @@
   font-size: 100%;
 }
 
-  h2 {
+h2 {
   font-size: 30px;
   font-family: "PlayfairDisplay";
   color: rgb(98, 98, 98);
   padding: 15px;
   margin: auto;
-  }
+}
 
 .Lifestyle {
-padding: 15px;
-margin: auto;
-font-size: 14px;
-font-family: "Ubuntu";
-color: rgb(180, 173, 158);
+  padding: 15px;
+  margin: auto;
+  font-size: 14px;
+  font-family: "Ubuntu";
+  color: rgb(180, 173, 158);
 }
 
 .link {
-display: block;
-width: 100px;
-padding: 15px 30px;
-border: 1px solid rgb(98, 98, 98);
-text-align: center;
-margin: auto;
-font-size: 20px;
-font-family: "PlayfairDisplay";
-color: rgb(98, 98, 98);
+  display: block;
+  padding: 15px 30px;
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
 }
 
 footer {
@@ -37,50 +35,73 @@ footer {
 }
 
 .nav {
-padding: 10px 30px;
-text-decoration: none;
+  padding: 10px 30px;
+  text-decoration: none;
 }
 
 header {
-text-align: center;
-padding: 30px 30px;
+  text-align: center;
+  padding: 30px 30px;
 }
 
-.ssilki {text-align: center;
-margin: auto;
-display: inline-block;
-font-family: "PlayfairDisplay";
-font-size: 14px;
-color: rgb(98, 98, 98);
- }
-  a:hover {
-color: blue;
+.ssilki {
+  text-align: center;
+  margin: auto;
+  display: inline-block;
+  font-family: "PlayfairDisplay";
+  font-size: 14px;
+  color: rgb(98, 98, 98);
+}
+a:hover {
+  color: #03a9f4;
 }
 
 img {
-width: 474px;
-height: 316px;
-padding: 15px;
-margin: auto;
+  width: 474px;
+  height: 316px;
+  padding: 15px;
+  margin: auto;
 }
 
 .Lorem {
-font-size: 14px;
-font-family: "PlayfairDisplay";
-color: rgb(98, 98, 98);
-line-height: 1.714;
-text-align: left;
-padding: 15px;
-margin: auto;
+  font-size: 14px;
+  font-family: "PlayfairDisplay";
+  color: rgb(98, 98, 98);
+  line-height: 1.714;
+  text-align: left;
+  padding: 15px;
+  margin: auto;
 }
 
 section {
-display: inline-block;
-width: 500px;
-margin: 20px;
+  display: inline-block;
+  width: 500px;
+  margin: 20px;
 }
 
 .wraper {
- margin: 30px 215px 15px; 
- }
+  width: 1090px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.header {
+  text-align: center;
+  padding: 30px 30px;
+}
+.task_1 {
+  font-size: 20px;
+  font-family: "Ubuntu";
+  padding: 60px 50px;
+  transform: scale(0.3);
+  transition: 0.5s all;
+}
+.task_1:hover {
+  color: #f36bff;
+  border: 3px solid #65d3ff;
+  padding: 15px 30px;
+  font-size: 25px;
+  transform: rotate(45deg) scale(0.3);
+  background-color: #fcffa1;
+  border-radius: 60%;
+}
