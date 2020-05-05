@@ -24,6 +24,9 @@ h1 {
 
 .wraper_2 {
     display: inline-block;
+    width: 1090px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .Lorem {
     font-size: 16px;
