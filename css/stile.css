@@ -7,7 +7,7 @@
 h2 {
   font-size: 30px;
   font-family: "PlayfairDisplay";
-  color: rgb(98, 98, 98);
+  color: #626262;
   padding: 15px;
   margin: auto;
 }
@@ -17,7 +17,7 @@ h2 {
   margin: auto;
   font-size: 14px;
   font-family: "Ubuntu";
-  color: rgb(180, 173, 158);
+  color: #626262;
 }
 
 .link {
@@ -27,7 +27,8 @@ h2 {
   margin: auto;
   font-size: 20px;
   font-family: "PlayfairDisplay";
-  color: rgb(98, 98, 98);
+  color: #626262;
+  cursor: pointer;
 }
 
 footer {
@@ -50,8 +51,9 @@ header {
   display: inline-block;
   font-family: "PlayfairDisplay";
   font-size: 14px;
-  color: rgb(98, 98, 98);
+  color: #626262;
 }
+
 a:hover {
   color: #03a9f4;
 }
@@ -66,7 +68,7 @@ img {
 .Lorem {
   font-size: 14px;
   font-family: "PlayfairDisplay";
-  color: rgb(98, 98, 98);
+  color: #626262;
   line-height: 1.714;
   text-align: left;
   padding: 15px;
