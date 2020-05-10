@@ -27,8 +27,9 @@ h2 {
   margin: auto;
   font-size: 20px;
   font-family: "PlayfairDisplay";
-  color: #626262;
+  color: #707070;
   cursor: pointer;
+  background: transparent;
 }
 
 footer {
@@ -57,7 +58,9 @@ header {
 a:hover {
   color: #03a9f4;
 }
-
+link:hover {
+  color: #03a9f4;
+}
 img {
   width: 474px;
   height: 316px;
