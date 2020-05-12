@@ -52,6 +52,8 @@ header {
   display: inline-block;
   font-family: "PlayfairDisplay";
   font-size: 14px;
+}
+a {
   color: #626262;
 }
 
